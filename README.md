@@ -19,8 +19,17 @@
 - **绘画兔子**
 
 可以根据自己想要的画风选择模型。
+### 画风预览
+- #### 猫哥
+- ![Image_1067382340501312](https://github.com/user-attachments/assets/46bcab0d-5efa-40d2-aec1-207a037d954c)
 
-### 提示词
+- #### 兔子
+- ![7V~E$ 7~_GQ$N~EA2`~S_AH](https://github.com/user-attachments/assets/8fab67d0-3ad5-424b-8690-4cf3268219cb)
+
+- #### 1助
+- ![Image_1089475440846582](https://github.com/user-attachments/assets/c35fadf2-8442-4a3e-abbf-f59f35130250)
+
+- ### 提示词
 
 顾名思义，提示AI该画什么，可以前往：https://tags-dev.novelai.dev/ 学习提示词的应用。
 
@@ -29,7 +38,7 @@
 
 1boy，独奏，舌头，吐舌头，猫耳，白头发，白袜子，上半身赤裸，白色内裤，看向观众，坐着，厕所，马桶，水，手在背后
 
-#### 成品图![Image_1067382340501312](https://github.com/user-attachments/assets/46bcab0d-5efa-40d2-aec1-207a037d954c)
+
 #### 说明：
 
 - **角色特征**：
